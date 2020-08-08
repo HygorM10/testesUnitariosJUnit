@@ -10,14 +10,14 @@
     é o teste da menor parte testável de um programa.
   
 ## Etapas do teste
-	- Parte 1: Criar o cenário de teste (inicializa os objetos)
-	- Parte 2: Realiza a ação (invoca os metodos)
-	- Parte 3: Realiza a validação (compara o retorno)
+   - Parte 1: Criar o cenário de teste (inicializa os objetos)
+   - Parte 2: Realiza a ação (invoca os metodos)
+   - Parte 3: Realiza a validação (compara o retorno)
   
 ## Divisão do Teste
-	- Cenário
-	- Ação
-	- Verificação
+   - Cenário
+   - Ação
+   - Verificação
 
 ## Vantagem de Testes Automatizados
    - Executa muito rápido se comparado a um humano.
